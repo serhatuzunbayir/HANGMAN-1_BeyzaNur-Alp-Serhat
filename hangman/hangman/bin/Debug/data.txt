@@ -1,0 +1,5 @@
+Ýstanbul,Þehir
+Fasülye,Bitki
+Ankara,Þehir
+Ýzmir,Þehir
+Elma,Bitki
